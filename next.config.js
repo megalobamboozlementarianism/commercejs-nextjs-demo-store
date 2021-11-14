@@ -1,5 +1,6 @@
-const withSass = require('@zeit/next-sass')
+require('dotenv').config()
 
+const withSass = require('@zeit/next-sass')
 module.exports = withSass({
   /* config options here */
   webpack: config => {
@@ -8,5 +9,7 @@ module.exports = withSass({
     }
     return config
   },
+  env: {
+    'CHEC_PUBLIC_KEY': process.env.NEXT_PUBLIC_CHEC_PUBLIC_KEY
+  }
 })
-

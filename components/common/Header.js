@@ -201,13 +201,9 @@ class Header extends Component {
               className="w-32 mr-1 d-block d-sm-none"
               alt="Menu icon"
             />
-            <Link href="/">
+            <Link href="/" >
               <a>
-                <img
-                  src="/images/commerce.svg"
-                  className="logo cursor-pointer"
-                  alt="Logo"
-                />
+                ⛰ Mountain Time Farm 🕟 
               </a>
             </Link>
           </div>

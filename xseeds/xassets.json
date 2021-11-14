@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ast_mOVKl4Day3lprR",
+    "url": "https://cdn.chec.io/merchants/21163/assets/WtDYOjBDpoxaEPtr|P1030171.JPG",
+    "is_image": true,
+    "filename": "P1030171.JPG",
+    "file_size": 2466099,
+    "file_extension": "JPG",
+    "image_dimensions": {
+        "width": 2560,
+        "height": 1920
+    },
+    "meta": [],
+    "created_at": 1609017165,
+    "updated_at": 1609017171
+  },
+  {
+    "id": "ast_9BAmwJyAb3leXd",
+    "url": "https://cdn.chec.io/merchants/21163/assets/EoqeilTVr1iFPN94|P1030236.JPG",
+    "is_image": true,
+    "filename": "P1030236.JPG",
+    "file_size": 2372728,
+    "file_extension": "JPG",
+    "image_dimensions": {
+        "width": 2560,
+        "height": 1920
+    },
+    "meta": [],
+    "created_at": 1609019386,
+    "updated_at": 1609019395
+}
+
+]

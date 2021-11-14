@@ -18,7 +18,7 @@ class ProductsBanner extends Component {
             className="text-center font-size-display1 mb-3 font-weight-medium"
             style={{ maxWidth: '32rem' }}
           >
-            Limited reservations on upcoming products and restocks.
+            Limited stock remaining from our 2020 growing season.
           </p>
           <Link href="/collection">
             <a className="d-flex py-3 align-items-center font-color-black borderbottom border-color-black">

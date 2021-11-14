@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "Shrubs",
+    "name": "Shrubs",
+    "meta": {
+      "image": "/images/collection/1.jpg"
+    }
+  },
+  {
+    "slug": "Trees",
+    "name": "Trees",
+    "meta": {
+      "image": "/images/collection/2.jpg"
+    }
+  },
+  {
+    "slug": "Herbacious Plants",
+    "name": "Herbacious Plants",
+    "meta": {
+      "image": "/images/collection/3.jpg"
+    }
+  }
+]

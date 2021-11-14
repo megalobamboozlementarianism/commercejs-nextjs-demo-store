@@ -1,0 +1,208 @@
+[
+  {
+      "id": "prod_LvJjoPjYnle0nO",
+      "created": 1609017187,
+      "updated": 1609019661,
+      "active": true,
+      "permalink": "aT5uvL",
+      "name": "Apricot Seedling",
+      "description": "<p>Apricot Seedling from the very delicious Apricot tree on our farm.</p>",
+      "price": {
+          "raw": 10,
+          "formatted": "10.00",
+          "formatted_with_symbol": "$10.00",
+          "formatted_with_code": "10.00 USD"
+      },
+      "quantity": 10,
+      "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/21163/assets/WtDYOjBDpoxaEPtr|P1030171.JPG"
+      },
+      "sku": null,
+      "sort_order": 1,
+      "seo": {
+          "title": null,
+          "description": null
+      },
+      "thank_you_url": null,
+      "meta": null,
+      "conditionals": {
+          "is_active": true,
+          "is_free": false,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_quantity_limited": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "collects_fullname": false,
+          "collects_shipping_address": false,
+          "collects_billing_address": false,
+          "collects_extrafields": false
+      },
+      "is": {
+          "active": true,
+          "free": false,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "quantity_limited": true,
+          "sold_out": false
+      },
+      "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true,
+          "video": false,
+          "rich_embed": false
+      },
+      "collects": {
+          "fullname": false,
+          "shipping_address": false,
+          "billing_address": false,
+          "extrafields": false
+      },
+      "checkout_url": {
+          "checkout": "https://checkout.chec.io/aT5uvL?checkout=true",
+          "display": "https://checkout.chec.io/aT5uvL"
+      },
+      "extrafields": [],
+      "variants": [],
+      "categories": [],
+      "assets": [
+          {
+              "id": "ast_mOVKl4Day3lprR",
+              "url": "https://cdn.chec.io/merchants/21163/assets/WtDYOjBDpoxaEPtr|P1030171.JPG",
+              "is_image": true,
+              "filename": "P1030171.JPG",
+              "file_size": 2466099,
+              "file_extension": "JPG",
+              "image_dimensions": {
+                  "width": 2560,
+                  "height": 1920
+              },
+              "meta": [],
+              "created_at": 1609017165,
+              "updated_at": 1609017171
+          }
+      ],
+      "statistics": {
+          "orders": 0,
+          "sales": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 USD"
+          }
+      },
+      "related_products": []
+  },
+  {
+      "id": "prod_aZWNoyj8E580JA",
+      "created": 1609019415,
+      "updated": 1609019673,
+      "active": true,
+      "permalink": "koaX0h",
+      "name": "Crabapple Seedling",
+      "description": "<p>Glorious crabapple seedling</p>",
+      "price": {
+          "raw": 10,
+          "formatted": "10.00",
+          "formatted_with_symbol": "$10.00",
+          "formatted_with_code": "10.00 USD"
+      },
+      "quantity": 10,
+      "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/21163/assets/EoqeilTVr1iFPN94|P1030236.JPG"
+      },
+      "sku": null,
+      "sort_order": 0,
+      "seo": {
+          "title": null,
+          "description": null
+      },
+      "thank_you_url": null,
+      "meta": null,
+      "conditionals": {
+          "is_active": true,
+          "is_free": false,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_quantity_limited": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "collects_fullname": false,
+          "collects_shipping_address": false,
+          "collects_billing_address": false,
+          "collects_extrafields": false
+      },
+      "is": {
+          "active": true,
+          "free": false,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "quantity_limited": true,
+          "sold_out": false
+      },
+      "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true,
+          "video": false,
+          "rich_embed": false
+      },
+      "collects": {
+          "fullname": false,
+          "shipping_address": false,
+          "billing_address": false,
+          "extrafields": false
+      },
+      "checkout_url": {
+          "checkout": "https://checkout.chec.io/koaX0h?checkout=true",
+          "display": "https://checkout.chec.io/koaX0h"
+      },
+      "extrafields": [],
+      "variants": [],
+      "categories": [
+          {
+              "id": "cat_G6kVw73Aaw2eDx",
+              "slug": "trees",
+              "name": "Trees"
+          }
+      ],
+      "assets": [
+          {
+              "id": "ast_9BAmwJyAb3leXd",
+              "url": "https://cdn.chec.io/merchants/21163/assets/EoqeilTVr1iFPN94|P1030236.JPG",
+              "is_image": true,
+              "filename": "P1030236.JPG",
+              "file_size": 2372728,
+              "file_extension": "JPG",
+              "image_dimensions": {
+                  "width": 2560,
+                  "height": 1920
+              },
+              "meta": [],
+              "created_at": 1609019386,
+              "updated_at": 1609019395
+          }
+      ],
+      "statistics": {
+          "orders": 0,
+          "sales": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 USD"
+          }
+      },
+      "related_products": []
+  }
+]
